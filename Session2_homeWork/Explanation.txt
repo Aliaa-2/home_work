@@ -1,0 +1,7 @@
+ 1. Explain the purpose of the main function in Dart. 
+ => entery point, to know where the starting point of the project 
+ 
+ 2. Describe the difference between var, dynamic, and explicitly typed variables in Dart.
+ var=> keyword, based on the value it add the dataType and once variable take the value can not reassign it 
+ dynamic=> dataType, weak can store any value and reassign it as you want.
+ explicitly typed variables => means dataType of the variables are known during The declaration. 
